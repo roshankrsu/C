@@ -1,3 +1,4 @@
+// calculator for division multiplication minus and addition
 #include<stdio.h>
 #include<stdlib.h>
 
